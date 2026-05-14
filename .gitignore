@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+
+exp/
+*.pt
+*.pth
+
+*.pdf
+
+# CLIP download cache accidentally created in cwd
+~/
